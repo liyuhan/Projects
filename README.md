@@ -1,2 +1,2 @@
 # Projects
-For further details, please view index page. 
+A repository for accomplished projects. For further details and links, please view index page. 
