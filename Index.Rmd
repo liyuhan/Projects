@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-author: "Author: Zhihao Huang"
+title: "My Projects"
+author: "Author: Zhihao (Daniel) Huang"
 output:
   html_document:
     theme: flatly
@@ -8,32 +8,34 @@ output:
 csl: ecology.csl
 ---
 
-------
-
-## Description
-
-This is the index page for all accomplished projects. 
-
 --------------
 
 ## About me
 
-* Class meets Tu/Th 2:30-4:00 in 1084 East Hall
+* I am Zhihao (Daniel), a first year master student of statistics at the University of Michigan, Ann Arbor. Prior to that, I got my bachelor's degree in the School of Mathematical Science at Nankai University. [Want to know more? Here is my CV](Zhihao_Huang_Resume.pdf). 
+
+* My exertise can be summarized with three statements: I use statistical theories to build models for data-oriented problems, I obtain data solutions with programming and I help people understand outcomes with appropriate presentations. 
 
 * Contact information:
-    + Office: 453 West Hall 
-    + Phone: 647 5457 
-    + E-mail: ionides@umich.edu 
-    + Web: dept.stat.lsa.umich.edu/~ionides
-    + Office hours:  Mon 11:30-12:30; Wed 1:00-2:00. 
+    + Phone: (+1) 734-263-5854
+    + E-mail: zhhhwang@umich.edu 
+    
 ----------
 
-# {.tabset}
+## Description
 
-## Course Projects
+This is the index page for all accomplished projects. Projects are taken from my regular course projects, work & research projects and Leetcode excerises. Regular updates will be made upon new accomplishments. 
 
-1. [STATS 506 Course Project](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project)
+----------
 
-## Work and Research Projects
+## Project Lists {.tabset}
+
+### Course Projects
+
+1. [STATS 506 Course Project (Logistics Regression on Titanic Data)](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project)
+
+### Work and Research Projects
 
 1. [Sales Report](20170430.html). 
+
+### Leetcode
