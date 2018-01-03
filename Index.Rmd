@@ -1,0 +1,39 @@
+---
+title: "Projects"
+author: "Author: Zhihao Huang"
+output:
+  html_document:
+    theme: flatly
+    toc: yes
+csl: ecology.csl
+---
+
+------
+
+## Description
+
+This is the index page for all accomplished projects. 
+
+--------------
+
+## About me
+
+* Class meets Tu/Th 2:30-4:00 in 1084 East Hall
+
+* Contact information:
+    + Office: 453 West Hall 
+    + Phone: 647 5457 
+    + E-mail: ionides@umich.edu 
+    + Web: dept.stat.lsa.umich.edu/~ionides
+    + Office hours:  Mon 11:30-12:30; Wed 1:00-2:00. 
+----------
+
+# {.tabset}
+
+## Course Projects
+
+1. [STATS 506 Course Project](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project)
+
+## Work and Research Projects
+
+1. [Sales Report](20170430.html). 
