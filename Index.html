@@ -163,8 +163,19 @@ $(document).ready(function () {
 <div id="work-and-research-projects" class="section level3">
 <h3>Work and Research Projects</h3>
 <ol style="list-style-type: decimal">
-<li><a href="20170430.html">Sales Report</a>.</li>
+<li>Sales Data Visualization Report. (Author’s permission required. The content include sensitive data.)</li>
 </ol>
+Enter password: <input id="password" type="text"></input> <a href="20170430.html" onclick="javascript:return validatePass()">enter your password and click this</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == '0427'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
 </div>
 <div id="leetcode" class="section level3">
 <h3>Leetcode</h3>

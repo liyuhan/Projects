@@ -36,6 +36,21 @@ This is the index page for all accomplished projects. Projects are taken from my
 
 ### Work and Research Projects
 
-1. [Sales Report](20170430.html). 
+1. Sales Data Visualization Report. (Author's permission required. The content include sensitive data.) 
+
+Enter password: <input id='password' type='text'  />
+<a href="20170430.html" onclick="javascript:return validatePass()">enter your password and click this</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == '0427'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+
+
 
 ### Leetcode
