@@ -36,7 +36,7 @@ This is the index page for all accomplished projects. Projects are taken from my
 
 ### Work and Research Projects
 
-1. Sales Data Visualization Report. (Author's permission required. The content include sensitive data.) 
+1. Sales Data Visualization Report. (Author's permission required. The content includes sensitive data.) 
 
 Enter password: <input id='password' type='text'  />
 <a href="20170430.html" onclick="javascript:return validatePass()">enter your password and click this</a>
