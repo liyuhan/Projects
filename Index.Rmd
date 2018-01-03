@@ -54,3 +54,5 @@ function validatePass(){
 
 
 ### Leetcode
+
+1. [Two Sum (Python)](Two_Sum.py)
