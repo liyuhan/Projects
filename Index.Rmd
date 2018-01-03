@@ -32,7 +32,7 @@ This is the index page for all accomplished projects. Projects are taken from my
 
 ### Course Projects
 
-1. [STATS 506 Course Project (Logistics Regression on Titanic Data)](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project)
+1. [STATS 506 Course Project (Logistics Regression on Titanic Data)](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project.Rmd)
 
 ### Work and Research Projects
 
