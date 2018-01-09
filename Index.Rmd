@@ -1,6 +1,6 @@
 ---
 title: "My Projects"
-author: "Author: Zhihao (Daniel) Huang"
+author: "Author: Zhihao (Daniel) Huang Yuhan Li"
 output:
   html_document:
     theme: flatly
